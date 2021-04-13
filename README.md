@@ -1,5 +1,5 @@
 From test classes.
-Generate some millions Faker, "random" test data and insert it to database.
+Generates some millions com.github.javafaker, "random" test data. And inserts it to oracle database.
 Fast...;)
 
 run it from IDE or maven test lifecycle.
